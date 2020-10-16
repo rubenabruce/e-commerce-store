@@ -6,7 +6,7 @@ export const CollectionItemCont = styled.div`
   width: 22vw;
   display: flex;
   flex-direction: column;
-  height: 400px;
+  height: 500px;
   position: relative;
   align-items: center;
 
