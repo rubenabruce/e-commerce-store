@@ -30,7 +30,11 @@ export const NameCont = styled.span`
 export const QuantityCont = styled.span`
   padding-left: 20px;
   display: flex;
+  @media screen and (max-width: 800px) {
+    padding: 20px; 
+  }
   ${StyledWidth}
+  
 `;
 
 export const ArrowCont = styled.div`

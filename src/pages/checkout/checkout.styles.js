@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const CheckoutPageCont = styled.div`
-  width: 55%;
+  width: 90%;
   min-height: 90vh;
   display: flex;
   flex-direction: column;
@@ -24,10 +24,10 @@ export const CheckoutHeaderCont = styled.div`
 
 export const HeaderBlockCont = styled.div`
   text-transform: capitalize;
-  width: 23%;
+  width: 20%;
 
   &:last-child {
-    width: 8%;
+    width: 12%;
   }
 `;
 
